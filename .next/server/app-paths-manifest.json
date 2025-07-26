@@ -1,0 +1,10 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/page": "app/page.js",
+  "/what-is-cybersecurity/page": "app/what-is-cybersecurity/page.js",
+  "/threats/page": "app/threats/page.js",
+  "/assessment/page": "app/assessment/page.js",
+  "/best-practices/page": "app/best-practices/page.js",
+  "/tools/page": "app/tools/page.js",
+  "/glossary/page": "app/glossary/page.js"
+}

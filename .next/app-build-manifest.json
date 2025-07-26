@@ -1,0 +1,82 @@
+{
+  "pages": {
+    "/not-found": [
+      "static/chunks/webpack-00c4e7a7ae8becf4.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-05defa3e0b8af640.js",
+      "static/chunks/main-app-0d8d86ab833e9ea0.js",
+      "static/chunks/app/not-found-d13d133ff9d230c9.js"
+    ],
+    "/_not-found/page": [
+      "static/chunks/webpack-00c4e7a7ae8becf4.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-05defa3e0b8af640.js",
+      "static/chunks/main-app-0d8d86ab833e9ea0.js",
+      "static/chunks/app/_not-found/page-d13d133ff9d230c9.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-00c4e7a7ae8becf4.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-05defa3e0b8af640.js",
+      "static/chunks/main-app-0d8d86ab833e9ea0.js",
+      "static/css/fe096ce4cea9c930.css",
+      "static/chunks/app/layout-a34690fa6f8d5491.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-00c4e7a7ae8becf4.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-05defa3e0b8af640.js",
+      "static/chunks/main-app-0d8d86ab833e9ea0.js",
+      "static/chunks/874-437a265a67d6cfee.js",
+      "static/chunks/app/page-13147c642bfbf1d9.js"
+    ],
+    "/what-is-cybersecurity/page": [
+      "static/chunks/webpack-00c4e7a7ae8becf4.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-05defa3e0b8af640.js",
+      "static/chunks/main-app-0d8d86ab833e9ea0.js",
+      "static/chunks/874-437a265a67d6cfee.js",
+      "static/chunks/app/what-is-cybersecurity/page-42c082cebcc462c8.js"
+    ],
+    "/threats/page": [
+      "static/chunks/webpack-00c4e7a7ae8becf4.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-05defa3e0b8af640.js",
+      "static/chunks/main-app-0d8d86ab833e9ea0.js",
+      "static/chunks/874-437a265a67d6cfee.js",
+      "static/chunks/app/threats/page-340c747de1cc00bb.js"
+    ],
+    "/assessment/page": [
+      "static/chunks/webpack-00c4e7a7ae8becf4.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-05defa3e0b8af640.js",
+      "static/chunks/main-app-0d8d86ab833e9ea0.js",
+      "static/chunks/874-437a265a67d6cfee.js",
+      "static/chunks/app/assessment/page-ae842f85c86a7407.js"
+    ],
+    "/best-practices/page": [
+      "static/chunks/webpack-00c4e7a7ae8becf4.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-05defa3e0b8af640.js",
+      "static/chunks/main-app-0d8d86ab833e9ea0.js",
+      "static/chunks/874-437a265a67d6cfee.js",
+      "static/chunks/app/best-practices/page-6c598115771fc0f0.js"
+    ],
+    "/tools/page": [
+      "static/chunks/webpack-00c4e7a7ae8becf4.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-05defa3e0b8af640.js",
+      "static/chunks/main-app-0d8d86ab833e9ea0.js",
+      "static/chunks/874-437a265a67d6cfee.js",
+      "static/chunks/app/tools/page-15e1ba9f1b4b70b9.js"
+    ],
+    "/glossary/page": [
+      "static/chunks/webpack-00c4e7a7ae8becf4.js",
+      "static/chunks/4bd1b696-cf72ae8a39fa05aa.js",
+      "static/chunks/964-05defa3e0b8af640.js",
+      "static/chunks/main-app-0d8d86ab833e9ea0.js",
+      "static/chunks/874-437a265a67d6cfee.js",
+      "static/chunks/app/glossary/page-0c298f3360bd5f7d.js"
+    ]
+  }
+}
