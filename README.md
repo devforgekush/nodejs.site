@@ -1,11 +1,3 @@
-Generate Documentation
-Documentation Generated Successfully!
-Your README.md has been generated. Review and download when ready.
-
-Generate Another
-
-Download
-README.md Preview
 # 🚀 nodejs.site
 
 > A dynamic website built with Next.js, React, and TypeScript.
@@ -123,7 +115,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## ℹ️ Contact
 
-For any questions or support, please open an issue on GitHub 
+For any questions or support, please open an issue on GitHub or contact YOUR_EMAIL@example.com.
 
 
----
+-
