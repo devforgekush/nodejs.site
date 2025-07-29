@@ -123,7 +123,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## ℹ️ Contact
 
-For any questions or support, please open an issue on GitHub or contact YOUR_EMAIL@example.com.
+For any questions or support, please open an issue on GitHub 
 
 
 ---
